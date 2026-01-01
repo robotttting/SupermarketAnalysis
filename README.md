@@ -5,3 +5,4 @@
 2. Profile: demographics of customer and whether payment is done by credit cartd
 3. Survey: responses of customers about the supermarket  
  
+ ![faef](https://github.com/robotttting/SupermarketAnalysisPBI/blob/main/SupermarketAnalysis.pdf)
